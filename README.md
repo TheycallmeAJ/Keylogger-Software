@@ -1,4 +1,4 @@
 # Keylogger-Software
-A Key-logger Software for my internship.
+A Key-logger Software.
 <br>
 Author: Anushka Jaiswal
