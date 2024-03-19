@@ -1,4 +1,4 @@
 # Keylogger-Software
-A Key-logger Software.
+A simple Key-logger Software.
 <br>
 Author: Anushka Jaiswal
